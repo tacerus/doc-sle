@@ -99,6 +99,8 @@
  <xi:include os="sles" href="book_storage.xml"/>
 <!-- Virtualization -->
 <xi:include os="sles" href="book_virtualization.xml"/>
+<!-- Virtualization KVM -->
+<xi:include os="sles" href="book-kvm.xml"/>
 <!-- Container Guide -->
 <xi:include os="sles" href="book_container.xml"/>
 <!-- ##################################################################### -->
