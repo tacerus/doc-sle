@@ -11,6 +11,9 @@
   xmlns:xlink="http://www.w3.org/1999/xlink">
  <info>
   <title>Tools for building images and managing containers</title>
+  <dm:docmanager xmlns:dm="urn:x-suse:ns:docmanager">
+   <dm:translation></dm:translation>
+  </dm:docmanager>
  </info>
  <para>
   This chapter provides a brief overview of tools for building images and
