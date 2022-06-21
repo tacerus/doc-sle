@@ -8,7 +8,12 @@
   xmlns="http://docbook.org/ns/docbook" version="5.0"
   xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:xlink="http://www.w3.org/1999/xlink">
- <title>Creating application images</title>
+ <info>
+  <title>Creating application images</title>
+  <dm:docmanager xmlns:dm="urn:x-suse:ns:docmanager">
+   <dm:translation></dm:translation>
+  </dm:docmanager>
+ </info>
  <para>
   &deng; is designed to allow running multiple separate application
   environments in parallel, with lower resource use than when using full

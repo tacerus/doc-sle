@@ -8,7 +8,12 @@
  xmlns="http://docbook.org/ns/docbook" version="5.0"
  xmlns:xi="http://www.w3.org/2001/XInclude"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <title>Configuring image storage</title>
+ <info>
+  <title>Configuring image storage</title>
+  <dm:docmanager xmlns:dm="urn:x-suse:ns:docmanager">
+   <dm:translation></dm:translation>
+  </dm:docmanager>
+ </info>
  <para>
   Before creating custom images, decide where you want to store images. The
   easiest solution is to push images to

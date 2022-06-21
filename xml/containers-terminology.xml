@@ -8,7 +8,12 @@
  xmlns="http://docbook.org/ns/docbook"
  xmlns:xi="http://www.w3.org/2001/XInclude"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <title>Terminology</title>
+ <info>
+  <title>Terminology</title>
+  <dm:docmanager xmlns:dm="urn:x-suse:ns:docmanager">
+   <dm:translation></dm:translation>
+  </dm:docmanager>
+ </info>
  <variablelist>
   <varlistentry xml:id="Container">
    <term>Container</term>

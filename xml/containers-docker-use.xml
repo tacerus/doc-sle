@@ -8,7 +8,12 @@
  xmlns="http://docbook.org/ns/docbook" version="5.0"
  xmlns:xi="http://www.w3.org/2001/XInclude"
  xmlns:xlink="http://www.w3.org/1999/xlink">
- <title>Working with containers</title>
+ <info>
+  <title>Working with containers</title>
+  <dm:docmanager xmlns:dm="urn:x-suse:ns:docmanager">
+   <dm:translation></dm:translation>
+  </dm:docmanager>
+ </info>
  <para>
   After you have created a custom image, you can start containers based on it.
   You can run an instance of the image using the <command>docker run</command>
